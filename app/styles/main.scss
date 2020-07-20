@@ -1,0 +1,33 @@
+.main{
+	width:100%;
+	height:100%;
+	position: fixed;
+	.siderMenu{
+		height:100%;
+		.logo {
+			height: 50px;
+			background: url('../images/404.png') no-repeat center center;
+			background-size: 30%;
+			border-radius: 6px;
+			margin: 16px;
+		}
+		
+	}
+	
+	.triggerIcon{
+		float:left;
+		font-size:20px;
+		margin:22px 0;
+	}
+	
+	.userInfo{
+		float:right;
+		
+		p{
+			display: inline-block;
+			margin-left:10px;
+		}
+		
+	}
+	
+}
